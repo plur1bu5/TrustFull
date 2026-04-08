@@ -2,8 +2,6 @@
   <img src="assets/logo.png" alt="TrustFull" width="400"/>
 </p>
 
-<h1 align="center">TrustFull</h1>
-
 <p align="center">
   <em>For anyone with trust issues</em>
 </p>
